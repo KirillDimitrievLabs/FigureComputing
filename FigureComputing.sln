@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureAreaComputing", "FigureComputing\FigureAreaComputing.csproj", "{235982F3-4039-4652-BC62-D29C747FD3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureComputingTest", "FigureComputingTest\FigureComputingTest.csproj", "{471C016C-AF24-4769-94EE-195E0CE4C58D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235982F3-4039-4652-BC62-D29C747FD3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235982F3-4039-4652-BC62-D29C747FD3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235982F3-4039-4652-BC62-D29C747FD3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235982F3-4039-4652-BC62-D29C747FD3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471C016C-AF24-4769-94EE-195E0CE4C58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471C016C-AF24-4769-94EE-195E0CE4C58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471C016C-AF24-4769-94EE-195E0CE4C58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471C016C-AF24-4769-94EE-195E0CE4C58D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91151384-F67B-44F5-890C-A148678A1C50}
+	EndGlobalSection
+EndGlobal
